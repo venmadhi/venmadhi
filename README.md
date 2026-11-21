@@ -1,23 +1,14 @@
 <!-- Profile README for github.com/venmadhi/venmadhi -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1f14,100:1f6f43&height=190&section=header&text=Venmadhi&fontSize=64&fontColor=9be8b5&fontAlignY=42&desc=GITSKINS%20%2F%20LIVING%20IDENTITY&descSize=13&descAlignY=66&animation=fadeIn" width="100%" alt="Venmadhi header" />
+<div align="center">
+
+<img src="hero.svg" alt="Venmadhi - JavaScript / Python / TypeScript" width="100%" />
+
+</div>
 
 <div align="center">
 
-**HELLO, WORLD. I'M**
-
-# Venmadhi K
-
-**Full-Stack Developer · AI-Integrated Web Apps**
-
-`JavaScript` / `Python` / `TypeScript`
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=9BE8B5&center=true&vCenter=true&width=560&lines=Building+useful+things+and+sharing+the+work+in+public;React+%C2%B7+Spring+Boot+%C2%B7+Django+%C2%B7+Node.js;Now+building%3A+Farm-Assist+%E2%80%94+AI+for+Kerala+farmers)](https://github.com/venmadhi)
-
-![Repositories](https://img.shields.io/badge/REPOSITORIES-14-0a1f14?style=for-the-badge&labelColor=0a1f14&color=1f6f43)
-![Contributions](https://img.shields.io/badge/CONTRIBUTIONS-22-0a1f14?style=for-the-badge&labelColor=0a1f14&color=1f6f43)
-![Stars](https://img.shields.io/badge/STARS-0-0a1f14?style=for-the-badge&labelColor=0a1f14&color=1f6f43)
-![Followers](https://img.shields.io/badge/FOLLOWERS-0-0a1f14?style=for-the-badge&labelColor=0a1f14&color=1f6f43)
 
 **Frontend or full-stack engineer — the public internet**
 
